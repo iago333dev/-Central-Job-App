@@ -1,0 +1,27 @@
+{
+  "count": 2,
+  "results": [
+    {
+      "id": "1001",
+      "title": "ABAP Developer",
+      "company": { "display_name": "SAP Partner Ltd" },
+      "location": { "display_name": "São Paulo, SP" },
+      "redirect_url": "https://exemplo.com/job/1001",
+      "created": "2025-09-01T10:00:00Z",
+      "salary_min": 10000,
+      "salary_max": 15000,
+      "description": "Desenvolvimento de programas ABAP em S/4HANA."
+    },
+    {
+      "id": "1002",
+      "title": "Consultor SAP MM",
+      "company": { "display_name": "Global Consulting" },
+      "location": { "display_name": "Remoto" },
+      "redirect_url": "https://exemplo.com/job/1002",
+      "created": "2025-09-02T15:30:00Z",
+      "salary_min": 12000,
+      "salary_max": 18000,
+      "description": "Atuação em projetos SAP MM, experiência com S/4HANA."
+    }
+  ]
+}
